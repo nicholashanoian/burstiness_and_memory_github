@@ -1,7 +1,7 @@
 # Burstiness and Memory in GitHub Activity Data
 
 
-[Choosing distribution to model interevent times](work/figures/picking-dist.png)
+![Choosing distribution to model interevent times](work/figures/picking-dist.png)
 
 GitHub is now the leading online platform for open source software development. For public
 projects, all activity related to the project is publicly available, including when contributions are
